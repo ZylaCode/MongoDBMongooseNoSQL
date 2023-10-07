@@ -19,6 +19,7 @@
   "dependencies": {
     "dotenv": "^16.3.1",
     "express-router": "^0.0.1",
-    "mongoose": "^7.6.0"
+    "mongoose": "^7.6.0",
+    "validator": "^13.11.0"
   }
 }
